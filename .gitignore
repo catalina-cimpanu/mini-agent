@@ -10,6 +10,7 @@
 
 # saved chats
 chat*
+.claude*
 
 # IPython
 profile_default/
